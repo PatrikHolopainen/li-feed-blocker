@@ -17,4 +17,4 @@ Linkedin Feed Blocker does not collect, store, or transmit personal data.
 - No data sent to third parties.
 
 ## Contact
-If you publish this extension, replace this section with your support contact info.
+For privacy or support questions, contact hello@beilor.com.
